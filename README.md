@@ -4,29 +4,7 @@
 
 This repository contains the complete submission for Week 4 SOC Training Assignment, covering advanced Security Operations Center (SOC) concepts including threat hunting, automation, incident response, and adversary simulation.
 
----
-
-📂 Repository Structure
-
-cyart-soc-team/
-└── Week 4/
-    ├── Week4_SOC_Report.docx
-    ├── README.md
-    ├── Week4_Summary.txt
-    ├── Threat_Hunting_Report.pdf
-    ├── SOAR_Playbook.pdf
-    ├── Post_Incident_Analysis.pdf
-    ├── Alert_Triage_Report.pdf
-    ├── Evidence_Analysis.pdf
-    ├── Adversary_Emulation_Report.pdf
-    ├── Security_Metrics_Report.pdf
-    ├── Capstone_Project_Report.pdf
-    ├── Workflow_Steps.txt
-    └── Screenshots/
-
----
-
-🧠 Topics Covered
+Topics Covered
 
 🔍 Threat Hunting
 
